@@ -1,7 +1,7 @@
 <h1 align="left">안녕하세요, 백엔드 개발자를 꿈꾸는 조수빈입니다😎</h1>
 <h3 align="left">Connect😉</h3>
 <p align="left">
-<p><img alt="Static Badge" src="https://img.shields.io/badge/E--Mail-03C75A?style=flat-square&logo=maildotru&logoColor=white">&nbsp**cdw3521@naver.com**</p>
+<img alt="Static Badge" src="https://img.shields.io/badge/E--Mail-03C75A?style=flat-square&logo=maildotru&logoColor=white">&nbsp: <strong>cdw3521@naver.com</strong>
 <a href="https://instagram.com/su.b_b.in_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="su.b_b.in_" height="30" width="40" /></a>
 <a href="https://discord.gg/cdw3521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cdw3521" height="30" width="40" /></a>
 </p>
