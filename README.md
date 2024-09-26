@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d2ebfc&animation=fadeIn&height=300&section=header&text=Hi,%20I%27m%20Subin%F0%9F%99%82&fontColor=0eb4fc&fontSize=80)
-<h1 align="left">안녕하세요, 백엔드 개발자를 꿈꾸는 조수빈입니다😎</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=d2ebfc&animation=fadeIn&height=300&width=1024&section=header&text=Hi,%20I%27m%20Subin%F0%9F%99%82&fontColor=0eb4fc&fontAlignY=45&fontSize=80&desc=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94,%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EA%BF%88%EA%BE%B8%EB%8A%94%20%EC%A1%B0%EC%88%98%EB%B9%88%EC%9E%85%EB%8B%88%EB%8B%A4!&descSize=20&descAlignY=65&descAlign=46))
+
 <h2 align="left">Connect😉</h2>
 <p align="left">
 <p>📬E-Mail : <strong>cdw3521@naver.com</strong></p>
