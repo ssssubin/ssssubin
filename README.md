@@ -24,6 +24,6 @@
 <p align="left"><img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ssssubin" style="width: 57%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssssubin&layout=compact" style="width: 42%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ssssubin" style="width: 55%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssssubin&layout=compact" style="width: 44%; height: auto;" />
 </div>
